@@ -11,11 +11,6 @@
 #define BASE 0
 #define NAV  1
 
-&mt {
-    flavor = "tap-preferred";
-    tapping_term_ms = <200>;
-};
-
 #define AS(keycode) &as LS(keycode) keycode
 
 / {
