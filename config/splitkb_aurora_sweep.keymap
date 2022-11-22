@@ -53,9 +53,9 @@
 
         default_layer {
             bindings = <
-&kp      AS(Q) &kp AS(W) &kp AS(F) &kp AS(P) &kp AS(B)      &kp AS(J) &kp AS(L) &kp AS(U) &kp AS(Y) &kp SQT
-&mt LSFT AS(A) &kp AS(R) &kp AS(S) &kp AS(T) &kp AS(G)      &kp AS(M) &kp AS(N) &kp AS(E) &kp AS(I) &mt RSFT AS(O)
-&kp      AS(Z) &kp AS(X) &kp AS(C) &kp AS(D) &kp AS(V)      &kp AS(K) &kp AS(H) &kp CMMA  &kp DOT   &kp FSLH
+      AS(Q)  AS(W)  AS(F)  AS(P)  AS(B)       AS(J)  AS(L)  AS(U)  AS(Y)  SQT
+&mt LSFT AS(A)  AS(R)  AS(S)  AS(T)  AS(G)       AS(M)  AS(N)  AS(E)  AS(I) &mt RSFT AS(O)
+      AS(Z)  AS(X)  AS(C)  AS(D)  AS(V)       AS(K)  AS(H) &kp CMMA  &kp DOT   &kp FSLH
                     &lt NAV TAB &kp SPC  				&kp LCTL &mo 2
 
             >; };
