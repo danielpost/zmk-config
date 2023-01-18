@@ -43,7 +43,7 @@
         combo_colon {
             timeout-ms = <50>;
             key-positions = <13 16>;
-            bindings = <&kp >;
+            bindings = <&kp COLON>;
         };
 
         combo_minus {
